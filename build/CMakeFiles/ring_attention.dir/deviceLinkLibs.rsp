@@ -1,0 +1,1 @@
+  -L"/home/whcui/nvshmem_src_3.0.6-4/install/lib"  -lnvshmem -lcudadevrt -lcudart_static -lrt -lpthread -ldl 
