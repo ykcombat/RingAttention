@@ -1,3 +1,0 @@
-/home/whcui/tiny-flash-attention/ring_attention/build/CMakeFiles/ring_attention.dir
-/home/whcui/tiny-flash-attention/ring_attention/build/CMakeFiles/edit_cache.dir
-/home/whcui/tiny-flash-attention/ring_attention/build/CMakeFiles/rebuild_cache.dir

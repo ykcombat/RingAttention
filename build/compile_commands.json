@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/whcui/tiny-flash-attention/ring_attention/build",
-  "command": "/usr/local/cuda/bin/nvcc -forward-unknown-to-host-compiler  -I/home/whcui/tiny-flash-attention/ring_attention/deps/cutlass/include -I/home/whcui/tiny-flash-attention/ring_attention/include -I/home/whcui/nvshmem_src_3.0.6-4/install/include  \"--generate-code=arch=compute_80,code=[compute_80,sm_80]\" -O3 -lineinfo -x cu -rdc=true -c /home/whcui/tiny-flash-attention/ring_attention/csrc/ring_attention.cu -o CMakeFiles/ring_attention.dir/csrc/ring_attention.cu.o",
-  "file": "/home/whcui/tiny-flash-attention/ring_attention/csrc/ring_attention.cu",
-  "output": "CMakeFiles/ring_attention.dir/csrc/ring_attention.cu.o"
-}
-]
